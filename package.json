@@ -1,0 +1,18 @@
+{
+	"name": "novo-projeto",
+	"version": "1.0.0",
+	"description": "Desafio de projeto do Felipão: Mario Kart.JS",
+	"main": "./src/main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ./src/main.js"
+	},
+	"keywords": [
+		"nodejs",
+		"Desafio",
+		"DIO"
+	],
+	"author": "Carlos-Eduardo-Januário",
+	"license": "ISC",
+	"type": "module"
+}
